@@ -1,4 +1,4 @@
-# 3203N PLOTS
+# [Assignment #2] PLOTS
 
 Given the 3 datasets:
 - bar_assignment.csv
